@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MonitorPlanHealth-2</string>
+    <string name="prediction_text">Prediction: </string>
+</resources>
